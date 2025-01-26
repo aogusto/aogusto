@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [augusto-ribeiro.com](augusto-ribeiro.com)
-
-- 📫 How to reach me **augustorib86@gmail.com / +55 (19) 9 98765-4172**
+- 📫 How to reach me **augusto-ribeiro.com / augustorib86@gmail.com / +55 (19) 9 98765-4172** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
