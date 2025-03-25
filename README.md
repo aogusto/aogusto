@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Augusto!</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **my personal web portfolio**
-
-- 🌱 I’m currently learning **Java**
-
 - 📫 How to reach me **augusto-ribeiro.com / augustorib86@gmail.com / +55 (19) 9 98765-4172** 
 
 <h3 align="left">Connect with me:</h3>
