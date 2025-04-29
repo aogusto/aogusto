@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Augusto!</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 📫 How to reach me **augusto-ribeiro.com / augustorib86@gmail.com / +55 (19) 9 98765-4172** 
+- 📫 How to reach me **augusto-ribeiro.com / dev.augustoribeiro@gmail.com / +55 (19) 9 98765-4172** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
